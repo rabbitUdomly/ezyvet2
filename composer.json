@@ -1,0 +1,13 @@
+{
+    "name": "ezyvet2",
+    "authors": [
+        {
+            "name": "demon",
+            "email": "duskov87@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["model/"]
+    }
+}
